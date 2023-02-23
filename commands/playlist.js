@@ -6,6 +6,6 @@ module.exports = {
     .setDescription("Ouça a melhor playlist de estudos"),
     
   async execute(interaction) {
-    await interaction.reply("https://open.spotify.com/playlist/5TUxgTIxzLbLVh7RUf9V8i?si=d79ad3b1a72840b6")
+    await interaction.reply("https://www.youtube.com/watch?v=lNkbgVii5BI&list=PLjyZagKbKZErYCNc9r4yiKKCCOwO7oM_1&ab_channel=Mist3r")
   }
 }    
